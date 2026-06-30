@@ -9,6 +9,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=tux&logoColor=white)
+![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=devtools&logoColor=white)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/radmiilkaa)
