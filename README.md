@@ -10,4 +10,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=tux&logoColor=white)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/radmiilkaa)
+[![Istagram](https://img.shields.io/badge/-Istagram-090909?style=for-the-badge&logo=instagram&logoColor=84068E)](https://www.instagram.com/bubochkaskoritsey?igsh=MXhoNWQ1eWJpemNseQ==)
+[![Вконтакте](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/radmiilka)
+
+
+
